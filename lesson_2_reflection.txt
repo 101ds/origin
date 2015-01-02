@@ -15,10 +15,18 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	to create different versions of the progect
+
 How do the diagrams help you visualize the branch structure?
+
+	tree view
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	the result is a new commit that has two or more branches as parents and curent branch moves to this commit.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	It's faster and easier to do merging automaticaly, if there is no ambiguity
